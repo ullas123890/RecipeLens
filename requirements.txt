@@ -10,7 +10,6 @@ google-pasta==0.2.0
 grpcio==1.63.0
 h5py==3.11.0
 idna==3.7
-keras==3.3.3
 libclang==18.1.1
 Markdown==3.6
 markdown-it-py==3.0.0
